@@ -40,7 +40,7 @@
 			<style>/*! elementor - v3.6.5 - 27-04-2022 */
 .elementor-widget-image-carousel .swiper-container{position:static}.elementor-widget-image-carousel .swiper-container .swiper-slide figure{line-height:inherit}.elementor-widget-image-carousel .swiper-slide{text-align:center}.elementor-image-carousel-wrapper:not(.swiper-container-initialized) .swiper-slide{max-width:calc(100% / var(--e-image-carousel-slides-to-show, 3))}</style>		<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
 			<div class="elementor-image-carousel swiper-wrapper">
-								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/12/neve-web-design-studio-04.1.jpg" alt="neve-web-design-studio-04.1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/12/neve-web-design-studio-03.1.jpg" alt="neve-web-design-studio-03.1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/12/neve-web-design-studio-02.1.jpg" alt="neve-web-design-studio-02.1" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/01/neve-web-design-bg-11.jpg" alt="web-design-bg-11" /></figure></div>			</div>
+								<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/12/neve-web-design-studio-04.1.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/12/neve-web-design-studio-03.1.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/12/neve-web-design-studio-02.1.jpg" alt="" /></figure></div><div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/01/neve-web-design-bg-11.jpg" alt="" /></figure></div>			</div>
 												<div class="swiper-pagination"></div>
 													<div class="elementor-swiper-button elementor-swiper-button-prev">
 						<i aria-hidden="true" class="eicon-chevron-left"></i>						<span class="elementor-screen-only">Previous</span>
@@ -75,7 +75,7 @@
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-top has-text-color" style="color:#c71f1f"><figure class="wp-block-media-text__media"><img loading="lazy" width="1200" height="924" src="https://diggorycat.github.io/barista/wp-content/uploads/2022/04/ho_duc_phoc_0.jpg" alt="" class="wp-image-416 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-top has-text-color" style="color:#c71f1f"><figure class="wp-block-media-text__media"><img src="https://diggorycat.github.io/barista/wp-content/uploads/2022/04/ho_duc_phoc_0.jpg" alt="" class="wp-image-416 size-full"/></figure><div class="wp-block-media-text__content">
 <p style="font-size:30px;font-style:normal;font-weight:700;text-transform:uppercase">Bộ trưởng Tài chính: Đã nhiều lần cảnh báo rủi ro trái phiếu doanh nghiệp </p>
 
 
@@ -109,7 +109,7 @@
 
 
 
-<div class="wp-block-cover alignright is-light"><span aria-hidden="true" class="wp-block-cover__gradient-background has-background-dim"></span><img loading="lazy" width="1366" height="768" class="wp-block-cover__image-background wp-image-109" alt="" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/07/web-design-studio-01.jpg.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<div class="wp-block-cover alignright is-light"><span aria-hidden="true" class="wp-block-cover__gradient-background has-background-dim"></span><img class="wp-block-cover__image-background wp-image-109" alt="" src="https://diggorycat.github.io/barista/wp-content/uploads/2020/07/web-design-studio-01.jpg.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
 <div class="wp-container-1 wp-block-group"><div class="wp-block-group__inner-container">
 <p class="has-text-align-center has-large-font-size">Xin chào tất cả mọi người</p>
 
